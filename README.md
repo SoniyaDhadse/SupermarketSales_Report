@@ -1,6 +1,5 @@
 # SupermarketSales_Report
-Interactive Dashboard using PowerBI
-
+Interactive Dashboard using PowerBI  
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ![Screenshot 2023-12-17 014540](https://github.com/SoniyaDhadse/SupermarketSales_Report/assets/134217285/eeb69c75-6c14-486d-b5f4-6cf42f845c6d)
